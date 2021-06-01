@@ -1,0 +1,4 @@
+venv
+.idea
+app/link_shortener.db
+__pycache__/
